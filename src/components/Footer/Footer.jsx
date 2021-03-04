@@ -50,7 +50,7 @@ return (
         </div>
         <div className="col-12">
           <hr className="light"/>
-            <h5>&copy; projectURL.com</h5>
+            <h5>&copy; https://trackcovid19project.herokuapp.com/</h5>
           
         </div>
       </div>
