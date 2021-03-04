@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Bangers');
+
+footer{
+    background-color: #222;
+    color:#d5d5d5;
+    padding-top: 2rem;
+    font-family: 'Poppins',sans-serif;
+
+
+}
+
+hr.light{
+    border-top: 1px solid #d5d5d5;
+    width: 75%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+    font-family: 'Poppins',sans-serif;
+}
+
+
+hr.light-100{
+    border-top: 1px solid #d5d5d5;
+    width: 100%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+    font-family: 'Poppins',sans-serif;
+
+}
+
+p.logo{
+    font-family: 'Bangers', cursive;
+    font-size: 30px;
+
+}

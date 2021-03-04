@@ -1,0 +1,23 @@
+.graph{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 50%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    
+
+}
+
+
+@media screen and (max-width : 993px)
+{
+    .graph{
+        display: flex;
+        justify-content: center;
+        margin: auto;
+        width: 90%;
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+}
